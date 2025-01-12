@@ -6,6 +6,8 @@ portafolio de proyectos realizados durante el bootcamp de analitica de datos de 
 
 En esta seccion repasaremos cada sprint del bootcamp de analitica de datos
 
+estoy comporbando algo
+
 ## sprint 1: python basico 1
 
 ## sprint 2: python basico 2
